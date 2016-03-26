@@ -25,7 +25,7 @@ If you need to update the installed version, you should run:
 8. The generated docs should be in the `src/build/html` subdirectory.
 Open the `index.html` file in your browser to see the generated docs.
 
-## Using `autobuild` to view changes locally ##
+## Using `sphinx-autobuild` to view changes locally ##
 
 [sphinx-autobuild](https://github.com/GaretJax/sphinx-autobuild) runs a local web server and automatically refresh whenever changes to the source files are detected.
 If `sphinx-autobuild` is not already installed in your lacal machine, install it by running
