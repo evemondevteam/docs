@@ -1,3 +1,11 @@
+.wy-nav-content-wrap {
+   background-color: #333; 
+}
+
+.wy-nav-content {
+   background-color: #ccc; 
+}
+
 .wy-side-nav-search .version {
 	display: none;
 }
