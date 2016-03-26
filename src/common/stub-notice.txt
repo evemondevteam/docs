@@ -1,6 +1,6 @@
 .. note::
-   This topic needs content.
+   This article is a stub.
    
-   You are welcome to contribute to it.
+   You are welcome to improve the docs by contributing to it.
    
    Learn how to `contribute <http://evemon.readthedocs.org/en/latest/about/contributing.html>`_.
