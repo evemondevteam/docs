@@ -6,7 +6,6 @@
 .. title:: Home
 .. include:: /common/stub-icon.txt
 
-
 EVEMon Documentation
 ====
 
