@@ -82,5 +82,5 @@ Below are some common pitfalls you should try to avoid:
 
 - **Don't forget** to submit an issue before starting work on an article.
 - **Don't forget** to create a separate branch before working on your article.
-- **Don't update or `merge`** your branch after you submit your pull request.
 - **Don't forget** to squash your commits once your pull request is ready to be accepted.
+- **Don't update or `merge`** your branch after you submit your pull request.
