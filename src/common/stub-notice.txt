@@ -3,4 +3,4 @@
    
    You are welcome to contribute to it.
    
-   Learn how to `contribute <http://evemon.readthedocs.org/en/latest/about/contributing.html>`_. 
+   Learn how to `contribute <http://evemon.readthedocs.org/en/latest/about/contributing.html>`_.
