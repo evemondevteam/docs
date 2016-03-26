@@ -3,3 +3,12 @@ Options
 
 .. toctree::
    :maxdepth: 2
+   
+   general/index
+   main-window
+   skill-planner/index
+   system-tray-icon
+   scheduler/index
+   notifications/index
+   .. cloud-storage-service
+   

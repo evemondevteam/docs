@@ -1,0 +1,6 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Logitech Keyboards
+====
+
+.. include:: /common/stub-notice.txt

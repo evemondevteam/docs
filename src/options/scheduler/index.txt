@@ -1,0 +1,11 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Scheduler
+====
+
+.. include:: /common/stub-notice.txt
+
+.. toctree::
+   :maxdepth: 1
+   
+   external-calendar

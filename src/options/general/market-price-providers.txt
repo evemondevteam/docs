@@ -1,0 +1,6 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Market Price Providers
+====
+
+.. include:: /common/stub-notice.txt

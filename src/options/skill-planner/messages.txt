@@ -1,0 +1,6 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Messages
+====
+
+.. include:: /common/stub-notice.txt
