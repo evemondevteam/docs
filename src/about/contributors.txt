@@ -1,0 +1,8 @@
+Contributors
+====
+
+This article contains a list of people who contributed to this project.
+Those committing to the project are encouraged to add their names here.
+Please keep the list sorted by first names.
+
+- Jimi "Desmont McCallock" C

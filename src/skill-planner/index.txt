@@ -1,0 +1,5 @@
+Skill Planner
+====
+
+.. toctree::
+   :maxdepth: 2

@@ -1,0 +1,26 @@
+.. EVEMon documentation master file, created by
+   sphinx-quickstart on Fri Mar 25 19:23:04 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+.. title:: Home
+.. |stub-icon| unicode:: U+1F527
+
+
+EVEMon Documentation
+====
+
+.. note::
+   This documentation is a work in progress. Topics marked with a |stub-icon| are placeholders for articles that have not been written yet. See `here <https://github.com/evemondevteam/docs/blob/master/README.md>`_ on how you can contribute.
+
+Topics
+----
+
+.. toctree::
+   :maxdepth: 2
+   
+   /about/index
+   /main-window/index
+   /skill-planner/index
+   /tools/index
+   /options/index
