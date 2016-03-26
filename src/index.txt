@@ -4,14 +4,14 @@
    contain the root `toctree` directive.
 
 .. title:: Home
-.. |stub-icon| unicode:: U+1F527
+.. include:: /common/stub-icon.txt
 
 
 EVEMon Documentation
 ====
 
 .. note::
-   This documentation is a work in progress. Topics marked with a |stub-icon| are placeholders for articles that have not been written yet. See `here <https://github.com/evemondevteam/docs/blob/master/README.md>`_ on how you can contribute.
+   This documentation is a work in progress. Topics marked with a |stub-icon| are placeholders for articles that have not been written yet. See `here <http://evemon.readthedocs.org/en/latest/about/contributing.html>`_ on how you can contribute.
 
 Topics
 ----
