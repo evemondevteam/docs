@@ -1,5 +1,9 @@
+.. include:: /common/stub-icon.txt
+
 Skill Planner
 =============
+
+.. include:: /common/stub-notice.txt
 
 .. toctree::
    :maxdepth: 1
