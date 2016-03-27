@@ -9,3 +9,9 @@
 .wy-side-nav-search .version {
 	display: none;
 }
+
+@media screen and (max-width: 768px){
+    img.logo{
+        max-width: 50%;
+    }
+}
