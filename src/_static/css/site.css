@@ -1,12 +1,6 @@
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
     .wy-side-nav-search>a img.logo, .wy-side-nav-search .wy-dropdown>a img.logo {
         max-width: 75%;
-    }
-}
-
-@media screen and (max-width: 568px) {
-    .wy-side-nav-search>a img.logo, .wy-side-nav-search .wy-dropdown>a img.logo {
-        max-width: 50%;
     }
 }
 
