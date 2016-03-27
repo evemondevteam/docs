@@ -1,6 +1,6 @@
 .. include:: /common/stub-icon.txt
 
-|stub-icon| Training Info (Footer)
-==================================
+|stub-icon| Certificate browser
+==============================
 
 .. include:: /common/stub-notice.txt

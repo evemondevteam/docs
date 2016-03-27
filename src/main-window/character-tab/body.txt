@@ -1,6 +1,6 @@
 .. include:: /common/stub-icon.txt
 
-|stub-icon| Monitors
-====================
+|stub-icon| Monitors (Body)
+===========================
 
 .. include:: /common/stub-notice.txt

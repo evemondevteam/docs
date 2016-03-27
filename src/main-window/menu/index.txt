@@ -8,5 +8,4 @@ Menu
    edit
    plans/index
    help
-         
-For **Tools** see `Tools </tools/index.html>`_
+- `Tools </tools/index.html>`_

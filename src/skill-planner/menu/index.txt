@@ -1,0 +1,38 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Menu
+================
+
+.. include:: /common/stub-notice.txt
+
+.. toctree::
+   :maxdepth: 1
+   
+   implant-calc
+   attributes-optimizer
+   loadout-import
+   
+Select Plan
+-----------
+New Plan
+^^^^^^^^
+
+Create Plan from Skill Queue
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Export
+------
+Plan
+^^^^
+
+After Plan Character
+^^^^^^^^^^^^^^^^^^^^
+
+Delete
+------
+
+Print
+-----
+
+Copy to Clipboard
+-----------------

@@ -1,6 +1,6 @@
 .. include:: /common/stub-icon.txt
 
-|stub-icon| Character Info
-==========================
+|stub-icon| Character Info (Header)
+===================================
 
 .. include:: /common/stub-notice.txt

@@ -12,5 +12,4 @@ Tools
    skills-pie-chart
    implant-groups
    owned-skillbooks
-
-For **Options** see `Options </options/index.html>`_
+- `Options </options/index.html>`_

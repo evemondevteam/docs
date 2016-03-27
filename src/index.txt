@@ -10,7 +10,7 @@ EVEMon Documentation
 ====================
 
 .. note::
-   This documentation is a work in progress. Topics marked with a |stub-icon| are placeholders for articles that have not been written yet. See `here <http://evemon.readthedocs.org/en/latest/about/contributing.html>`_ on how you can contribute.
+   This documentation is a work in progress. Topics marked with a |stub-icon| are placeholders for articles that have not been written yet. See `here <http://evemon.readthedocs.org/en/latest/about/contributing.html>`_ how you can contribute.
 
 Topics
 ------
@@ -22,4 +22,4 @@ Topics
    /main-window/index
    /skill-planner/index
    /tools/index
-   /options/index
+   /options/index   
