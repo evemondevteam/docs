@@ -1,1 +1,1 @@
-.. |stub-icon| unicode:: U+1F527
+.. |stub-icon| unicode:: u"\u1F527"
