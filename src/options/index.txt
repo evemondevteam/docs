@@ -1,14 +1,12 @@
 Options
-====
+=======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    general/index
    main-window
    skill-planner/index
    system-tray-icon
    scheduler/index
-   notifications/index
-   .. cloud-storage-service
-   
+   notifications/index   

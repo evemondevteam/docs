@@ -1,6 +1,6 @@
 .. include:: /common/stub-icon.txt
 
-|stub-icon| Cloud Storage Service
-=================================
+|stub-icon| Training Info
+=========================
 
 .. include:: /common/stub-notice.txt

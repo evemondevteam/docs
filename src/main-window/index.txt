@@ -1,5 +1,9 @@
 Main Window
-====
+===========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   
+   menu/index
+   overview/index
+   character-tab/index

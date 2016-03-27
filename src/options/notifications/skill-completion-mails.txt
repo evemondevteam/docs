@@ -1,6 +1,6 @@
 .. include:: /common/stub-icon.txt
 
 |stub-icon| Skill Completion Mails
-====
+==================================
 
 .. include:: /common/stub-notice.txt

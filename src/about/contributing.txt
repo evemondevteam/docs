@@ -1,10 +1,10 @@
 Contributing
-====
+============
 
 The docs are built using `Sphinx <http://sphinx-doc.org>`_, `reStructuredText <http://sphinx-doc.org/rest.html>`_ and hosted by `ReadTheDocs <http://evemon.readthedocs.org>`_.
 
 Building the Docs
-----
+-----------------
 
 1. Download `python <https://www.python.org/downloads/>`_ version 2.7.x or higher (version 3.x works too).
 2. If you are installing on Windows, make sure the Python install directory and the Python scripts directory have been added to the ``PATH`` environment variable. For example, if you have installed Python in the ``c:\python27`` directory, you should add ``c:\python27;c:\python27\scripts`` to the ``PATH`` environment variable.
@@ -25,7 +25,7 @@ Building the Docs
 8. The generated docs should be in the ``src\build\html`` subdirectory. Open the ``index.html`` file in your browser to see the generated docs.
 
 Using ``sphinx-autobuild`` to view changes locally
-----
+--------------------------------------------------
 
 `sphinx-autobuild <https://github.com/GaretJax/sphinx-autobuild>`_ runs a local web server and automatically refresh whenever changes to the source files are detected.
 If ``sphinx-autobuild`` is not already installed in your lacal machine, install it by running
@@ -43,7 +43,7 @@ on a command prompt.
 4. Hit ``^C`` to stop the local server.
 
 Adding Content
-----
+--------------
 
 The documentation follows the `Sphinx Style Guide <http://documentation-style-guide-sphinx.readthedocs.org/en/latest/style-guide.html>`_.
 
@@ -58,7 +58,7 @@ If you are suggesting an article which is not yet documented, provide details on
 Follow the documentation's folder structure.
 
 Contributing process
-----
+--------------------
 
 1. Open an Issue by following the **Adding Content** guidelines. Get approval to write your article.
 2. Fork the repo.
@@ -76,7 +76,7 @@ Change all but the first instance of "pick" to "squash" and save the file and ex
 A more detailed answer is available on `StackOveflow <http://stackoverflow.com/a/6934882>`_.
 
 Common Pitfalls
-----
+---------------
 
 Below are some common pitfalls you should try to avoid:
 

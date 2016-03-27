@@ -1,6 +1,6 @@
 .. include:: /common/stub-icon.txt
 
 |stub-icon| Data Browser
-====
+========================
 
 .. include:: /common/stub-notice.txt

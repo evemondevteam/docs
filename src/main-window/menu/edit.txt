@@ -1,0 +1,9 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Edit
+================
+
+.. include:: /common/stub-notice.txt
+
+Copy Skills to Clipboard (BB Format)
+------------------------------------

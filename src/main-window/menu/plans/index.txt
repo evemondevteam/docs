@@ -1,0 +1,24 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Plans
+=================
+
+.. include:: /common/stub-notice.txt
+
+.. toctree::
+   :maxdepth: 1
+
+New Plan
+--------
+
+Create Plan from Skill Queue
+----------------------------
+
+Import Plan fron File
+---------------------
+
+Manage Plans
+------------
+
+List of Plans
+-------------

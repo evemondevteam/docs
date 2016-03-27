@@ -1,15 +1,16 @@
 Tools
-====
+=====
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    api-tester
    blank-character-creator
    characters-comparison
-   .. data-browser
    mineral-worksheet
    scheduler
    skills-pie-chart
    implant-groups
    owned-skillbooks
+
+For **Options** see `Options </options/index.html>`_

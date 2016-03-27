@@ -1,0 +1,18 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Help
+================
+
+.. include:: /common/stub-notice.txt
+
+Forums
+------
+
+Suggest a Feature (UserVoice)
+-----------------------------
+
+Follow us on Twitter
+--------------------
+
+About
+-----

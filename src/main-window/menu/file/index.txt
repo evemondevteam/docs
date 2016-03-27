@@ -1,0 +1,45 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| File
+================
+
+.. include:: /common/stub-notice.txt
+
+.. toctree::
+   :maxdepth: 1
+   
+API Keys
+--------
+Add
+^^^
+
+Manage
+^^^^^^
+
+Characters
+----------
+Delete
+^^^^^^
+
+Export
+^^^^^^
+
+Hide
+^^^^
+
+Settings
+--------
+Restore
+^^^^^^^
+
+Save
+^^^^
+
+Reset
+^^^^^
+
+Clear Cache
+-----------
+
+Exit
+----

@@ -1,12 +1,18 @@
 .. include:: /common/stub-icon.txt
 
-|stub-icon| Skill Planner
+|stub-icon| Character Tab
 =========================
 
 .. include:: /common/stub-notice.txt
 
 .. toctree::
    :maxdepth: 1
-   
-   icons
-   messages
+
+   header
+   body
+   footer
+
+**Title**
+
+  
+**Status**

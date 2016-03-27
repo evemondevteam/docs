@@ -1,6 +1,6 @@
 .. include:: /common/stub-icon.txt
 
 |stub-icon| Main Window
-====
+=======================
 
 .. include:: /common/stub-notice.txt

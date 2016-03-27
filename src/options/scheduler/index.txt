@@ -1,7 +1,7 @@
 .. include:: /common/stub-icon.txt
 
 |stub-icon| Scheduler
-====
+=====================
 
 .. include:: /common/stub-notice.txt
 

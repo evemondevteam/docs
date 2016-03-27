@@ -1,6 +1,6 @@
 .. include:: /common/stub-icon.txt
 
 |stub-icon| API Tester
-====
+======================
 
 .. include:: /common/stub-notice.txt
