@@ -1,6 +1,5 @@
-
-@media screen and (max-width: 768px){
-    img.logo{
+@media screen and (max-width: 768px) {
+    .wy-side-nav-search>a img.logo, .wy-side-nav-search .wy-dropdown>a img.logo {
         max-width: 50%;
     }
 }
