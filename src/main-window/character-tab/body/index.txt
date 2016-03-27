@@ -1,0 +1,29 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Monitors (Body)
+===========================
+
+.. include:: /common/stub-notice.txt
+
+.. toctree::
+   :maxdepth: 1
+
+   skills
+   skill-queue
+   employment-history
+   standings
+   contacts
+   faction-warfare
+   medals
+   combat-log
+   assets
+   market
+   contracts
+   journal
+   transactions
+   industry
+   colonies
+   research
+   mail
+   notification
+   

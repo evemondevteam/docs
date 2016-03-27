@@ -1,0 +1,6 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Combat (Kill) Log
+======================
+
+.. include:: /common/stub-notice.txt

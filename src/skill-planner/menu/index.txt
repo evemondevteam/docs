@@ -20,6 +20,9 @@ New Plan
 Create Plan from Skill Queue
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+List of Plans
+^^^^^^^^^^^^^
+
 Export
 ------
 Plan

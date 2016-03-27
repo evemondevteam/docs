@@ -4,17 +4,14 @@
 ================
 
 .. include:: /common/stub-notice.txt
-
-.. toctree::
-   :maxdepth: 1
    
 API Keys
 --------
-Add
-^^^
+Add API Key
+^^^^^^^^^^^
 
-Manage
-^^^^^^
+Manage API Keys
+^^^^^^^^^^^^^^^
 
 Characters
 ----------

@@ -9,7 +9,7 @@
    :maxdepth: 1
 
    header
-   body
+   body/index
    footer
 
 **Title**

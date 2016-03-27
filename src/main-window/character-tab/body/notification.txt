@@ -1,0 +1,6 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| EVE Notifications
+=============================
+
+.. include:: /common/stub-notice.txt

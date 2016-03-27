@@ -2,7 +2,7 @@ Skill Planner
 =============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    menu/index
    plan-editor/index

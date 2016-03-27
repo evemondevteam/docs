@@ -1,0 +1,6 @@
+.. include:: /common/stub-icon.txt
+
+|stub-icon| Employment History
+==============================
+
+.. include:: /common/stub-notice.txt
