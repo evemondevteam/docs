@@ -18,8 +18,8 @@ Topics
 .. toctree::
    :maxdepth: 2
    
-   /about/index
-   /main-window/index
-   /skill-planner/index
-   /tools/index
-   /options/index   
+   about/index
+   main-window/index
+   skill-planner/index
+   tools/index
+   options/index   
