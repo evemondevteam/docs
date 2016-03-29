@@ -12,12 +12,12 @@ Building the Docs
 
     ``pip install sphinx``
 
-4. Sphinx, by default, installs also the "ReadTheDocs" custom theme. If you need to update the installed version, you should run:
+4. Sphinx, by default, installs also the ``sphinx_rtd_theme`` custom theme. If you need to update the installed version, you should run:
 
     ``pip install -U sphinx_rtd_theme``
     
 5. Clone the docs repo to your local machine.
-6. Navigate into the `src` subdirectory.
+6. Navigate into the ``src`` subdirectory.
 7. Run ``make`` (make.bat on Windows, Makefile on Mac/Linux)
 
     ``make html``
