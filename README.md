@@ -1,5 +1,7 @@
-[![Documentation Status](https://readthedocs.org/projects/evemon/badge/?version=stable)](http://evemon.readthedocs.org/en/stable/)
 [![Documentation Status](https://readthedocs.org/projects/evemon/badge/?version=latest)](http://evemon.readthedocs.org/en/latest/)
+[![Documentation Status](https://readthedocs.org/projects/evemon/badge/?version=stable)](http://evemon.readthedocs.org/en/stable/)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/evemondevteam/docs/blob/master/LICENSE.md)
+[![GitHub release](https://img.shields.io/github/release/evemondevteam/docs.svg)]()
 
 # EVEMon's Documentation #
 
