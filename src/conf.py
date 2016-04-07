@@ -115,7 +115,7 @@ html_theme = 'sphinx_rtd_theme'
 # Add custom stylesheet and javascript to ReadTheDocs theme.
 def setup(app):
     app.add_stylesheet('css/style.css?v=1')
-    app.add_javascript('js/script.css?v=1')
+    app.add_javascript('js/script.js?v=1')
     
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
